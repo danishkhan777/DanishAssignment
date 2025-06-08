@@ -1,6 +1,7 @@
 package Assignment_June7
 
-fun main() {
+fun main()
+{
     val orderNum = 43
 
     if (orderNum % 2 == 0) {

@@ -1,6 +1,7 @@
 package Assignment_June7
 
-fun main() {
+fun main()
+{
     print("Enter a day number (1-7, where 1=Monday): ")
     val dayNum = readln().toInt()
 
