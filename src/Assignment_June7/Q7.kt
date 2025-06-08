@@ -1,6 +1,7 @@
 package Assignment_June7
 
-fun main() {
+fun main()
+{
     println("Even-dollar coffee prices (from \$1 to \$10):")
 
     for (price in 1..10) {
